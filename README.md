@@ -1,7 +1,7 @@
 # THE-WALKING-DEAD-THE-ONES
 
 <item>
-<title>[COLOR silver][B] THE ALKING DEAD- THE ONES WHOO LIVE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] THE  WALKING DEAD- THE ONES WHOO LIVE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5VK45OP5C6N7ALOHGTY3PK5XPN4LPVS4$nome=THE ALKING DEAD EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RURTOINXDMYYNVUL3EG2FARCAEIN3HEP$nome=THE ALKING DEAD EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KQ5IS76SOJMF3FDNRH3UQM7VHHCCHHQM$nome=THE ALKING DEAD EP.3</link>
